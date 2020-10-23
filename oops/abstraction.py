@@ -42,3 +42,11 @@ b.operations()
 c.operations()
 b.print_simple()
 c.print_simple()
+
+# o/p
+# i am printing from B
+# i am printing from master class A
+# 30
+# 400
+# i am from A class and I am not abstract
+# i am from A class and I am not abstract
