@@ -20,3 +20,6 @@ c.say_hi()
 
 # from B
 # sayhi from C
+# if the inheritance is multiple
+# and if there is constructor in parent class
+# then method resolution order is executed
